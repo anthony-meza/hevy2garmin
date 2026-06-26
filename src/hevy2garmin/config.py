@@ -39,7 +39,7 @@ DEFAULT_CONFIG: dict[str, Any] = {
     "hr_fusion": {
         "enabled": True,
     },
-    "merge_mode": true, 
+    "merge_mode": True, 
     "merge_activity_types": ["strength_training"],
     # What to do when a workout was recorded on a watch (Garmin will not show
     # pushed exercise names on those). One activity in every case (#159):
